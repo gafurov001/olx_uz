@@ -1,0 +1,9 @@
+.idea
+.venv
+db.sqlite3
+templates
+media
+TODO
+**migrations**
+managment
+.env

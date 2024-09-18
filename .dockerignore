@@ -1,0 +1,7 @@
+.venv
+.idea
+TODO
+dp.py
+.gitignore
+media
+.env

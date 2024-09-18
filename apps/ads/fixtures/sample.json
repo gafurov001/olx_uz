@@ -1,0 +1,122 @@
+[
+  {
+    "model": "ads.extrafields",
+    "pk": 1,
+    "fields": {
+      "category": 79,
+      "fields": {
+        "private or business": {
+          "type": "choice",
+          "required": "True"
+        },
+        "breed": {
+          "type": "choice",
+          "required": "True"
+        }
+      }
+    }
+  },
+  {
+    "model": "ads.extrafields",
+    "pk": 2,
+    "fields": {
+      "category": 80,
+      "fields": {
+        "private or business": {
+          "type": "choice",
+          "required": "True"
+        },
+        "breed": {
+          "type": "choice",
+          "required": "True"
+        }
+      }
+    }
+  },
+  {
+    "model": "ads.extrafields",
+    "pk": 3,
+    "fields": {
+      "category": 82,
+      "fields": {
+        "private or business": {
+          "type": "choice",
+          "required": "True"
+        },
+        "breed": {
+          "type": "choice",
+          "required": "True"
+        }
+      }
+    }
+  },
+  {
+    "model": "ads.extrafields",
+    "pk": 4,
+    "fields": {
+      "category": 88,
+      "fields": {
+        "private or business": {
+          "type": "choice",
+          "required": "True"
+        },
+        "breed": {
+          "type": "choice",
+          "required": "True"
+        }
+      }
+    }
+  },
+  {
+    "model": "ads.extrafields",
+    "pk": 5,
+    "fields": {
+      "category": 13,
+      "fields": {
+        "private or business": {
+          "type": "choice",
+          "required": "True"
+        },
+        "condition": {
+          "type": "choice",
+          "choices": [
+            "New",
+            "Used",
+            "Refurbished"
+          ],
+          "required": "True"
+        },
+        "size": {
+          "type": "text",
+          "required": "True"
+        }
+      }
+    }
+  },
+  {
+    "model": "ads.extrafields",
+    "pk": 6,
+    "fields": {
+      "category": 16,
+      "fields": {
+        "private or business": {
+          "type": "choice",
+          "required": "True"
+        },
+        "condition": {
+          "type": "choice",
+          "choices": [
+            "New",
+            "Used",
+            "Refurbished"
+          ],
+          "required": "True"
+        },
+        "size": {
+          "type": "text",
+          "required": "True"
+        }
+      }
+    }
+  }
+]
